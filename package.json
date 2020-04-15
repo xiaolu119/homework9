@@ -1,0 +1,28 @@
+{
+  "name": "homework9",
+  "version": "1.0.0",
+  "description": "Homework 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaolu119/homework9.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Xiaolu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaolu119/homework9/issues"
+  },
+  "homepage": "https://github.com/xiaolu119/homework9#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.1.0"
+  }
+}
